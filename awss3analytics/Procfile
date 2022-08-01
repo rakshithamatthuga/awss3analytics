@@ -1,0 +1,2 @@
+web: python amazons33.py
+worker: python amazons33.py 
